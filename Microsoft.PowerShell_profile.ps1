@@ -1,0 +1,1 @@
+set-alias jump C:\Users\huhua\Documents\WindowsPowerShell\jump.ps1
